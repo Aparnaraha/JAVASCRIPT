@@ -1,12 +1,26 @@
 # Javascript_Session
  Starting Javascript today. So how basically javascript works-"Everything in javascript happens inside an Excecution Context.
- 
- HTML                                           CSS                                           JAVASCRIPT
- 
- HTML stands for Hyper Text Markup Language     CSS stands for Cascading Style Sheets.        JavaScript is a text-based programming 
-                                                                                              used both on the client-side and server 
-HTML is the standard markup Language            CSS describes how HTML elements are to        Side that allows you to make web pages 
-for creating web pages.                         be DISPLAYED on screen,paper,or in the        INTERACTIVE.
 
-HTML describes the STRUCTURE of a web           With CSS, you can control the color,font,     
-page.                                           the size of text and many more operations.
+# HTML- 
+ 
+HTML stands for Hyper Text Markup Language  
+
+HTML is the standard markup Language for creating Web pages.
+
+HTML describes the structure of a Web page.
+
+# CSS-
+
+CSS stands for Cascading Style Sheets.
+
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+
+With CSS, you can control the color, font, the size of text etc.
+
+
+# JAVASCRIPT-
+
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+
+JavaScript improves the user experience of the web page by converting it from a static page into an interactive one
+
