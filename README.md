@@ -1,6 +1,8 @@
 # Javascript_Session
  Starting Javascript today. So how basically javascript works-"Everything in javascript happens inside an Excecution Context.
 
+ # How website front-end works (Client Side)?
+
 # HTML- 
  
 HTML stands for Hyper Text Markup Language  
