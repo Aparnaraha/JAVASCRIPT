@@ -1,5 +1,5 @@
 # Javascript_Session
- Starting Javascript today. So how basically javascript works-"Everything in javascript happens inside an Excecution Context.
+I have Covered this session with 5 different Projects.So basically javascript works-"Everything in javascript happens inside an Excecution Context.
 
  # How website front-end works (Client Side)?
 
