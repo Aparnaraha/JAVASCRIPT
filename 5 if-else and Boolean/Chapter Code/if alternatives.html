@@ -5,7 +5,7 @@
 </head>
 <body>
   <script>
-    // Ternary operator
+    // IF - else - alternatives
     // let age = 32;
     // let result;
     // if (age > 18) {
@@ -13,16 +13,34 @@
     // } else {
     //   result = 'Kid'
     // }
+
+
+    /* Ternary operator
+     Syntax - 
+      condition ? trueValue : falseValue
+      
+      -- quick one line if-else
+    */
     // let result = age > 18 ? 'Adult' : 'Kid';
     // console.log(result);
 
-    // Guard operator
+    /* Guard operator
+      Syntax - 
+       value || defaultValue
+      
+       -- use when a fallback value is needed
+    */  
     let age = 0;
     let finalAge = age || 18;
     console.log(age);
     console.log(finalAge);
 
-    // Default operator
+    /* Default operator
+      Syntax - 
+        value || fallbackValue
+        
+        -- use when you want to consider only null and undefined as falsy
+    */
     // let age;
     // let finalAge = age ?? 18;
     // console.log(age);
