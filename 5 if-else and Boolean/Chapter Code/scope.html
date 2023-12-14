@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Scope</title>
+</head>
+<body>
+  <script>
+  let age = 12;
+  let userMessage;
+  if (age > 18) {
+    userMessage = 'You can drive';
+  } else {
+    userMessage = 'Use a Bicycle';
+  }
+  console.log(userMessage);
+/* You will find error in console while uncommenting the below line i=of code and commenting the above code
+
+1. Here you can see the error is showing this means it is not in the scope, its value can be usable under the local area. 
+
+2. For removing this error you could either use the above code or use the 'var' keyword instead because 'var' keyword doesnt follow scopes.
+
+*/
+  // let age = 12;
+  // if (age > 18) {
+  //   let userMessage = 'You can drive';
+  // } else {
+  //   let userMessage = 'Use a Bicycle';
+  // }
+  // console.log(userMessage);  
+
+  </script>
+</body>
+</html>
